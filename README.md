@@ -10,5 +10,5 @@ how to run the streamlit app:
 go the the project folder.
 stramlit run app.py
 
-browse: http://<yoourIP>;8501
+browse: http://yoourIP;8501
 
