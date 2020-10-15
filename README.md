@@ -9,7 +9,7 @@ then app.py is the main application file to be run.
 how to run the streamlit app:
 
 go the the project folder.
-stramlit run app.py
+streamlit run app.py
 
 browse: http://yourIP:8501
 
